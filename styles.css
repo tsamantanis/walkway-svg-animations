@@ -1,0 +1,12 @@
+html, body {
+    background: #4b4b4b;
+}
+
+svg path, svg line, svg polyline {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+svg path {
+    fill: transparent
+}
